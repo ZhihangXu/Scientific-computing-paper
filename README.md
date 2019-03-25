@@ -24,8 +24,10 @@ Published as a conference paper at ICLR 2019.
 ### Topic 2: Variational Inference
 - [Markov Chain Monte Carlo and Variational Inference:
 Bridging the Gap](http://proceedings.mlr.press/v37/salimans15.pdf),
+Tim Salimans, Diederik P. Kingma and Max Welling,
 Proceedings of the 32 nd International Conference on Machine
 Learning, Lille, France, 2015.
+[Lecture slides](http://videolectures.net/site/normal_dl/tag=1005141/icml2015_salimans_variational_inference_01.pdf)
 
 - [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114),
 Diederik P Kingma and Max Welling,
@@ -33,7 +35,7 @@ Diederik P Kingma and Max Welling,
 
 - [Hamiltonian Variational Auto-Encoder](https://arxiv.org/abs/1805.11328),
 Anthony L. Caterini, Arnaud Doucet and Dino Sejdinovic,
-(last revised 23 Nov 2018).
+32nd Conference on Neural Information Processing Systems (IPS 2018),.
 [Code](https://github.com/anthonycaterini/hvae-nips),
 [Video](https://www.youtube.com/watch?v=MD1CFKTu9U4).
 
@@ -41,6 +43,7 @@ Anthony L. Caterini, Arnaud Doucet and Dino Sejdinovic,
 Purpose Bayesian Inference Algorithm](https://papers.nips.cc/paper/6338-stein-variational-gradient-descent-a-general-purpose-bayesian-inference-algorithm.pdf),
 Qiang Liu and Dilin Wang,
 30th Conference on Neural Information Processing Systems (NIPS 2016), Barcelona, Spain.
+[Code](https://github.com/DartML/Stein-Variational-Gradient-Descent).
 
 ### Support or Contact
 Implemented and maintained by Zhihang Xu.
