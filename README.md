@@ -4,6 +4,7 @@ The following is a list of recommended paper in many fields such as MCMC and Var
 Please email Zhihang Xu （xuzhh@shanghaitech.edu.cn） if you would like to add papesr to this page.
 
 ---
+## Part I:  Approximation Methods
 
 ### Topic 1: Markov Chain Monte Carlo sampler
 
