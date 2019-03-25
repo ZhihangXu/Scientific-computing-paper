@@ -5,9 +5,7 @@ Please email Zhihang Xu （xuzhh@shanghaitech.edu.cn） if you would like to add
 
 ### Topic 1: Markov Chain Monte Carlo sampler
 
-#### Recommanded textbooks: 
-- ** Pattern Recognation and Machine Learning**: Chapter 10.1 and 10.2.
-- ** Machine Learning: A probabilistic Perspective**： Chapter 21 and 22.
+
 
 - [Generalizing Hamiltonian Monte Carlo with Neural Networks](https://arxiv.org/abs/1711.09268),
  Daniel Levy, Matthew D. Hoffman and Jascha Sohl-Dickstein, (last revised 2 Mar 2018).
@@ -25,6 +23,12 @@ Raza. Habib and David. Barber,
 Published as a conference paper at ICLR 2019.
 
 ### Topic 2: Variational Inference
+
+#### Recommanded textbooks: 
+- **Pattern Recognation and Machine Learning**: Chapter 10.1 and 10.2.
+- **Machine Learning: A probabilistic Perspective**： Chapter 21 and 22.
+
+#### Recommanded papers: 
 - [Markov Chain Monte Carlo and Variational Inference:
 Bridging the Gap](http://proceedings.mlr.press/v37/salimans15.pdf),
 Tim Salimans, Diederik P. Kingma and Max Welling,
