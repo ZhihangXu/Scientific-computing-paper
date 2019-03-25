@@ -4,7 +4,7 @@ The following is a list of recommaned paper in many fields such as MCMC and Vari
 Please email Zhihang Xu （xuzhh@shanghaitech.edu.cn） if you would like to add a paper to this page.
 
 ### Topic 1: Markov Chain Monte Carlo sampler
-
+- [Generalizing Hamiltonian Monte Carlo with Neural Networks](https://arxiv.org/abs/1711.09268)
 
 
 ### Markdown
