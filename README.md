@@ -14,9 +14,14 @@ Please email Zhihang Xu （xuzhh@shanghaitech.edu.cn） if you would like to add
 #### Recommanded papers: 
 - [Generalizing Hamiltonian Monte Carlo with Neural Networks](https://arxiv.org/abs/1711.09268),
  Daniel Levy, Matthew D. Hoffman and Jascha Sohl-Dickstein, (last revised 2 Mar 2018).
+ [Code](https://github.com/brain-research/l2hmc).
 
 - [A-NICE-MC: Adversarial Training for MCMC](https://arxiv.org/abs/1706.07561),
-Jiaming Song, Shengjia Zhao and Stefano Ermon (last revised 14 Mar 2018).
+Jiaming Song, Shengjia Zhao and Stefano Ermon,
+31st Conference on Neural Information Processing Systems (NIPS 2017), Long Beach, CA, USA.
+[Website](https://ermongroup.github.io/blog/a-nice-mc/).
+[Code](https://github.com/ermongroup/a-nice-mc).
+
 
 - [Learning Deep Latent Gaussian Models with Markov Chain Monte Carlo](https://pdfs.semanticscholar.org/353a/6ac63ba0f30f7627cb01e4ba214acf3a256c.pdf),
 Matthew D. Hoffman,
@@ -26,6 +31,7 @@ Learning, Sydney, Australia, PMLR 70, 2017.
 - [Auxiliary Variational MCMC](https://openreview.net/pdf?id=r1NJqsRctX),
 Raza. Habib and David. Barber,
 Published as a conference paper at ICLR 2019.
+[Code](https://github.com/AVMCMC/AuxiliaryVariationalMCMC).
 
 ### Topic 2: Variational Inference
 
