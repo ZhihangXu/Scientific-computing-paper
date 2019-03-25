@@ -25,8 +25,8 @@ Published as a conference paper at ICLR 2019.
 ### Topic 2: Variational Inference
 
 #### Recommanded textbooks: 
-- [Pattern Recognation and Machine Learning](https://doc.lagout.org/science/Artificial%20Intelligence/Machine%20learning/Machine%20Learning_%20A%20Probabilistic%20Perspective%20%5BMurphy%202012-08-24%5D.pdf): Chapter 10.1 and 10.2.
-- **Machine Learning: A probabilistic Perspective**： Chapter 21 and 22.
+- [Pattern Recognation and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf): Chapter 10.1 and 10.2.
+- [Machine Learning: A probabilistic Perspective](https://doc.lagout.org/science/Artificial%20Intelligence/Machine%20learning/Machine%20Learning_%20A%20Probabilistic%20Perspective%20%5BMurphy%202012-08-24%5D.pdf)： Chapter 21 and 22.
 
 #### Recommanded papers: 
 - [Markov Chain Monte Carlo and Variational Inference:
