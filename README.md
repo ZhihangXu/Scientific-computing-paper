@@ -5,8 +5,10 @@ Please email Zhihang Xu （xuzhh@shanghaitech.edu.cn） if you would like to add
 
 ### Topic 1: Markov Chain Monte Carlo sampler
 
+#### Recommanded textbooks: 
+- [Machine Learning: A probabilistic Perspective](https://doc.lagout.org/science/Artificial%20Intelligence/Machine%20learning/Machine%20Learning_%20A%20Probabilistic%20Perspective%20%5BMurphy%202012-08-24%5D.pdf)： Chapter 23 and 24.
 
-
+#### Recommanded papers: 
 - [Generalizing Hamiltonian Monte Carlo with Neural Networks](https://arxiv.org/abs/1711.09268),
  Daniel Levy, Matthew D. Hoffman and Jascha Sohl-Dickstein, (last revised 2 Mar 2018).
 
