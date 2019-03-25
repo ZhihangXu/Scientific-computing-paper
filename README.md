@@ -50,6 +50,7 @@ Learning, Lille, France, 2015.
 - [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114),
 Diederik P Kingma and Max Welling,
 (last revised 1 May 2014).
+[Video](https://www.youtube.com/watch?v=rjZL7aguLAs)
 
 - [Hamiltonian Variational Auto-Encoder](https://arxiv.org/abs/1805.11328),
 Anthony L. Caterini, Arnaud Doucet and Dino Sejdinovic,
@@ -64,8 +65,9 @@ Qiang Liu and Dilin Wang,
 [Code](https://github.com/DartML/Stein-Variational-Gradient-Descent).
 
 ---
-### Links to relevent fields
+### Some Reading List of relevent fields
 - [Variational Inference](http://www.statslab.cam.ac.uk/~sp825/vi.html)
+- [Bayesian Deep Learning & Deep Bayesian Learning](https://github.com/CW-Huang/BDL-Reading-List/blob/master/index.md)
 
 ---
 
