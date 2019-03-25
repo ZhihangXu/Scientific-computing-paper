@@ -5,6 +5,7 @@ Please email Zhihang Xu （xuzhh@shanghaitech.edu.cn） if you would like to add
 
 ### Topic 1: Markov Chain Monte Carlo sampler
 
+#### Recommanded textbooks:
 
 - [Generalizing Hamiltonian Monte Carlo with Neural Networks](https://arxiv.org/abs/1711.09268),
  Daniel Levy, Matthew D. Hoffman and Jascha Sohl-Dickstein, (last revised 2 Mar 2018).
