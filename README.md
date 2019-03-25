@@ -21,34 +21,20 @@ Learning, Sydney, Australia, PMLR 70, 2017.
 Raza. Habib and David. Barber,
 Published as a conference paper at ICLR 2019.
 
+### Topic 2: Variational Inference
+- [Markov Chain Monte Carlo and Variational Inference:
+Bridging the Gap](http://proceedings.mlr.press/v37/salimans15.pdf),
+Proceedings of the 32 nd International Conference on Machine
+Learning, Lille, France, 2015.
 
-### Markdown
+- [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114),
+Diederik P Kingma and Max Welling,
+(last revised 1 May 2014).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [Hamiltonian Variational Auto-Encoder](https://arxiv.org/abs/1805.11328),
+Anthony L. Caterini, Arnaud Doucet and Dino Sejdinovic,
+(last revised 23 Nov 2018).
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZhihangXu/Scientific-computing-paper/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 Implemented and maintained by Zhihang Xu.
