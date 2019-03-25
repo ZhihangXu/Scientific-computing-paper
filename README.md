@@ -52,5 +52,9 @@ Qiang Liu and Dilin Wang,
 30th Conference on Neural Information Processing Systems (NIPS 2016), Barcelona, Spain.
 [Code](https://github.com/DartML/Stein-Variational-Gradient-Descent).
 
+---
+### Links to relevent fields
+- [Variational Inference](http://www.statslab.cam.ac.uk/~sp825/vi.html)
+
 ### Support or Contact
 Implemented and maintained by Zhihang Xu.
