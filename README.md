@@ -8,8 +8,7 @@ Please email Zhihang Xu （xuzhh@shanghaitech.edu.cn） if you would like to add
 Daniel Levy, Matthew D. Hoffman, Jascha Sohl-Dickstein, (last revised 2 Mar 2018).
 - [A-NICE-MC: Adversarial Training for MCMC](https://arxiv.org/abs/1706.07561),
 Jiaming Song, Shengjia Zhao, Stefano Ermon (last revised 14 Mar 2018).
--[Learning Deep Latent Gaussian Models with Markov Chain Monte Carlo]
-(https://pdfs.semanticscholar.org/353a/6ac63ba0f30f7627cb01e4ba214acf3a256c.pdf),
+- [Learning Deep Latent Gaussian Models with Markov Chain Monte Carlo](https://pdfs.semanticscholar.org/353a/6ac63ba0f30f7627cb01e4ba214acf3a256c.pdf),
 Matthew D. Hoffman,
 Proceedings of the 34 th International Conference on Machine
 Learning, Sydney, Australia, PMLR 70, 2017.
