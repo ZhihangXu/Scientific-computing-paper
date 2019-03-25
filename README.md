@@ -17,7 +17,7 @@ Matthew D. Hoffman,
 Proceedings of the 34 th International Conference on Machine
 Learning, Sydney, Australia, PMLR 70, 2017.
 
--[Auxiliary Variational MCMC](https://openreview.net/pdf?id=r1NJqsRctX),
+- [Auxiliary Variational MCMC](https://openreview.net/pdf?id=r1NJqsRctX),
 Raza. Habib and David. Barber,
 Published as a conference paper at ICLR 2019.
 
