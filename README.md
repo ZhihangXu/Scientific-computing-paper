@@ -1,4 +1,4 @@
-## PAPERS
+## PAPER LIST
 
 The following is a list of recommended paper in many fields such as MCMC and Variational Inference.
 Please email Zhihang Xu （xuzhh@shanghaitech.edu.cn） if you would like to add papesr to this page.
@@ -34,6 +34,7 @@ Diederik P Kingma and Max Welling,
 - [Hamiltonian Variational Auto-Encoder](https://arxiv.org/abs/1805.11328),
 Anthony L. Caterini, Arnaud Doucet and Dino Sejdinovic,
 (last revised 23 Nov 2018).
+[Code](https://github.com/anthonycaterini/hvae-nips).
 
 - [Stein Variational Gradient Descent: A General
 Purpose Bayesian Inference Algorithm](https://papers.nips.cc/paper/6338-stein-variational-gradient-descent-a-general-purpose-bayesian-inference-algorithm.pdf),
