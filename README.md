@@ -72,6 +72,3 @@ Qiang Liu and Dilin Wang,
 - [Applying Machine Learning To Physics](https://physicsml.github.io/pages/papers.html)
 
 
-### Support or Contact
-
-Implemented and maintained by Zhihang Xu.
