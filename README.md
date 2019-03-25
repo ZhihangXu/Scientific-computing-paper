@@ -34,7 +34,8 @@ Diederik P Kingma and Max Welling,
 - [Hamiltonian Variational Auto-Encoder](https://arxiv.org/abs/1805.11328),
 Anthony L. Caterini, Arnaud Doucet and Dino Sejdinovic,
 (last revised 23 Nov 2018).
-[Code](https://github.com/anthonycaterini/hvae-nips).
+[Code](https://github.com/anthonycaterini/hvae-nips),
+[Video](https://www.youtube.com/watch?v=MD1CFKTu9U4).
 
 - [Stein Variational Gradient Descent: A General
 Purpose Bayesian Inference Algorithm](https://papers.nips.cc/paper/6338-stein-variational-gradient-descent-a-general-purpose-bayesian-inference-algorithm.pdf),
