@@ -3,6 +3,8 @@
 The following is a list of recommended paper in many fields such as MCMC and Variational Inference.
 Please email Zhihang Xu （xuzhh@shanghaitech.edu.cn） if you would like to add papesr to this page.
 
+---
+
 ### Topic 1: Markov Chain Monte Carlo sampler
 
 #### Recommanded textbooks: 
@@ -57,6 +59,8 @@ Qiang Liu and Dilin Wang,
 ---
 ### Links to relevent fields
 - [Variational Inference](http://www.statslab.cam.ac.uk/~sp825/vi.html)
+
+---
 
 ### Support or Contact
 Implemented and maintained by Zhihang Xu.
