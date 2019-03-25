@@ -35,6 +35,10 @@ Diederik P Kingma and Max Welling,
 Anthony L. Caterini, Arnaud Doucet and Dino Sejdinovic,
 (last revised 23 Nov 2018).
 
+- [Stein Variational Gradient Descent: A General
+Purpose Bayesian Inference Algorithm](https://papers.nips.cc/paper/6338-stein-variational-gradient-descent-a-general-purpose-bayesian-inference-algorithm.pdf),
+Qiang Liu and Dilin Wang,
+30th Conference on Neural Information Processing Systems (NIPS 2016), Barcelona, Spain.
 
 ### Support or Contact
 Implemented and maintained by Zhihang Xu.
