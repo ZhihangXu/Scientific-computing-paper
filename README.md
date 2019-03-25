@@ -69,8 +69,8 @@ Qiang Liu and Dilin Wang,
 ### Some Reading List of relevent fields
 - [Variational Inference](http://www.statslab.cam.ac.uk/~sp825/vi.html)
 - [Bayesian Deep Learning & Deep Bayesian Learning](https://github.com/CW-Huang/BDL-Reading-List/blob/master/index.md)
+- [Applying Machine Learning To Physics](https://physicsml.github.io/pages/papers.html)
 
----
 
 ### Support or Contact
 
