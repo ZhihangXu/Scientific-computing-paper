@@ -1,11 +1,14 @@
 ## PAPERS
 
-The following is a list of recommaned paper in many fields such as MCMC and Variational Inference.
-Please email Zhihang Xu （xuzhh@shanghaitech.edu.cn） if you would like to add a paper to this page.
+The following is a list of recommended paper in many fields such as MCMC and Variational Inference.
+Please email Zhihang Xu （xuzhh@shanghaitech.edu.cn） if you would like to add papesr to this page.
 
 ### Topic 1: Markov Chain Monte Carlo sampler
+
+
 - [Generalizing Hamiltonian Monte Carlo with Neural Networks](https://arxiv.org/abs/1711.09268),
-Daniel Levy, Matthew D. Hoffman and Jascha Sohl-Dickstein, (last revised 2 Mar 2018).
+ *Daniel Levy, Matthew D. Hoffman and Jascha Sohl-Dickstein, 
+ *(last revised 2 Mar 2018).
 
 - [A-NICE-MC: Adversarial Training for MCMC](https://arxiv.org/abs/1706.07561),
 Jiaming Song, Shengjia Zhao and Stefano Ermon (last revised 14 Mar 2018).
@@ -18,6 +21,7 @@ Learning, Sydney, Australia, PMLR 70, 2017.
 -[Auxiliary Variational MCMC](https://openreview.net/pdf?id=r1NJqsRctX),
 Raza. Habib and David. Barber,
 Published as a conference paper at ICLR 2019.
+
 
 ### Markdown
 
