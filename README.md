@@ -49,12 +49,12 @@ Learning, Lille, France, 2015.
 
 - [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114),
 Diederik P Kingma and Max Welling,
-(last revised 1 May 2014).
-[Video](https://www.youtube.com/watch?v=rjZL7aguLAs)
+[Video](https://www.youtube.com/watch?v=rjZL7aguLAs),
+[Slides](https://www.slideshare.net/mehdidc/auto-encodingvariationalbayes-54478304).
 
 - [Hamiltonian Variational Auto-Encoder](https://arxiv.org/abs/1805.11328),
 Anthony L. Caterini, Arnaud Doucet and Dino Sejdinovic,
-32nd Conference on Neural Information Processing Systems (IPS 2018),.
+32nd Conference on Neural Information Processing Systems (NIPS 2018),
 [Code](https://github.com/anthonycaterini/hvae-nips),
 [Video](https://www.youtube.com/watch?v=MD1CFKTu9U4).
 
