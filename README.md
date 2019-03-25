@@ -49,6 +49,7 @@ Learning, Lille, France, 2015.
 
 - [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114),
 Diederik P Kingma and Max Welling,
+The International Conference on Learning Representations (ICLR), Banff, 2014,
 [Video](https://www.youtube.com/watch?v=rjZL7aguLAs),
 [Slides](https://www.slideshare.net/mehdidc/auto-encodingvariationalbayes-54478304).
 
