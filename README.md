@@ -1,7 +1,7 @@
 ## PAPER LIST
 
 The following is a list of recommended paper in many fields such as MCMC and Variational Inference.
-Please email Zhihang Xu （xuzhh@shanghaitech.edu.cn） if you would like to add papesr to this page.
+Please email Zhihang Xu （xuzhh@shanghaitech.edu.cn） if you have any suggestions.
 
 ---
 ## Part I:  Sampling and generative models
