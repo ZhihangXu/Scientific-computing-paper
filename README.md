@@ -13,7 +13,8 @@ Please email Zhihang Xu （xuzhh@shanghaitech.edu.cn） if you would like to add
 
 #### Recommanded papers: 
 - [Generalizing Hamiltonian Monte Carlo with Neural Networks](https://arxiv.org/abs/1711.09268),
- Daniel Levy, Matthew D. Hoffman and Jascha Sohl-Dickstein, (last revised 2 Mar 2018).
+ Daniel Levy, Matthew D. Hoffman and Jascha Sohl-Dickstein, 
+ arXiv preprint arXiv:1711.09268, 2017.
  [[Code]](https://github.com/brain-research/l2hmc).
 
 - [A-NICE-MC: Adversarial Training for MCMC](https://arxiv.org/abs/1706.07561),
@@ -43,8 +44,6 @@ arXiv preprint arXiv:1901.07977 (2019).
 
 - [Neural Importance Sampling](https://arxiv.org/pdf/1808.03856.pdf),
 THOMAS MÜLLER, BRIAN MCWILLIAMS, FABRICE ROUSSELLE, MARKUS GROSS, JAN NOVÁK.
-
-
 
 
 ### Topic 4: Generative Models 
@@ -115,7 +114,7 @@ International Conference on Machine Learning (ICML). 2013.
 Novikov A, Podoprikhin D, Osokin A, et al.
 Advances in neural information processing systems (NIPS). 2015.
 
-### Topic 3: 
+### Topic 4: Deep Learning based UQ analysis 
 
 - [Uncertainty in neural networks: Bayesian Ensembling](https://arxiv.org/pdf/1810.05546.pdf),
 Pearce T, Zaki M, Brintrup A, et al,
@@ -135,6 +134,7 @@ Advances in neural information processing systems (NIPS). 2015.
 - [Inference via Low-Dimensional Couplings](http://www.jmlr.org/papers/volume19/17-747/17-747.pdf),
 Alessio Spantini, Daniele Bigoni and Youssef Marzouk,
 Journal of Machine Learning Research 19 (2018) 1-71.
+
 ### Topic 1: Variational Inference
 
 #### Recommanded textbooks: 
