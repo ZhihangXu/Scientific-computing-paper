@@ -6,7 +6,7 @@ Please email Zhihang Xu （xuzhh@shanghaitech.edu.cn） if you would like to add
 ---
 ## Part I:  Approximation Methods
 
-### Topic 1: Markov Chain Monte Carlo sampler
+### Topic 1: Markov Chain Monte Carlo sampling
 
 #### Recommanded textbooks: 
 - [Machine Learning: A probabilistic Perspective](https://doc.lagout.org/science/Artificial%20Intelligence/Machine%20learning/Machine%20Learning_%20A%20Probabilistic%20Perspective%20%5BMurphy%202012-08-24%5D.pdf)： Chapter 23 and 24.
@@ -32,6 +32,16 @@ Learning, Sydney, Australia, PMLR 70, 2017.
 Raza. Habib and David. Barber,
 Published as a conference paper at ICLR 2019.
 [[Code]](https://github.com/AVMCMC/AuxiliaryVariationalMCMC).
+
+
+### Topic 2: Importance Sampling 
+- [Coupling the reduced-order model and the generative model for an importance sampling estimator](https://arxiv.org/pdf/1901.07977.pdf)
+Xiaoliang Wan and Shuangqing Wei,
+arXiv preprint arXiv:1901.07977 (2019).
+
+- [Neural Importance Sampling](https://arxiv.org/pdf/1808.03856.pdf),
+THOMAS MÜLLER, BRIAN MCWILLIAMS, FABRICE ROUSSELLE, MARKUS GROSS, JAN NOVÁK.
+
 
 ### Topic 2: Variational Inference
 
@@ -116,8 +126,36 @@ Prepared for submission to JHEP.
 Diederik P. Kingma, Jimmy Lei Ba,
 Published as a conference paper at ICLR 2015.
 
+## Topic: Tensor and data-mining in scientific computing and data science
+- [A practical randomized CP tensor decomposition](https://epubs.siam.org/doi/pdf/10.1137/17M1112303)
+Battaglino C, Ballard G, Kolda T G.
+SIAM Journal on Matrix Analysis and Applications, 2018, 39(2): 876-901.
 
+- [Generalized CP decomposition](https://arxiv.org/pdf/1808.07452.pdf)
+Hong D, Kolda T G, Duersch J A.
+arXiv preprint arXiv:1808.07452, 2018.
 
+- [Tensor Analyzers](http://www.cs.toronto.edu/~fritz/absps/ta.pdf)
+Tang Y, Salakhutdinov R and Hinton G,
+International Conference on Machine Learning (ICML). 2013.
+
+- [Tensorizing neural networks]
+Novikov A, Podoprikhin D, Osokin A, et al.
+Advances in neural information processing systems (NIPS). 2015.
+
+'Undertermined'
+
+- [Inference via Low-Dimensional Couplings](http://www.jmlr.org/papers/volume19/17-747/17-747.pdf),
+Alessio Spantini, Daniele Bigoni and Youssef Marzouk,
+Journal of Machine Learning Research 19 (2018) 1-71.
+
+- [Uncertainty in neural networks: Bayesian Ensembling](https://arxiv.org/pdf/1810.05546.pdf),
+Pearce T, Zaki M, Brintrup A, et al,
+arXiv preprint arXiv:1810.05546, 2018.
+
+- [Deep Neural Networks Motivated by Partial Differential Equations]()
+Lars Ruthotto and Eldad Haber,
+arXiv preprint arXiv:1804.04272, 2018.
 
 
 
