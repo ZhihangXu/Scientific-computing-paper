@@ -78,11 +78,23 @@ Mehdi Mirza and Simon Osindero,
 (arXiv preprint arXiv:1411.1784) 2014.
 
 - [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](https://papers.nips.cc/paper/6399-infogan-interpretable-representation-learning-by-information-maximizing-generative-adversarial-nets.pdf),
-Xi Chen†, Yan Duan, Rein Houthooft, John Schulman, Ilya Sutskever and Pieter Abbeel,
+Xi Chen, Yan Duan, Rein Houthooft, John Schulman, Ilya Sutskever and Pieter Abbeel,
 30th Conference on Neural Information Processing Systems (NIPS 2016), Barcelona, Spain.
 
 ###  Topic 4:  Flow-based generative model
 This topic focus on density estimation (or related) that is a central topic in unsupervised learning. Combining deep neural networks with the standard statistic method is very popular in recent years. The basic GAN model and its variants are omited here.
+
+- [Density Estimation using real NVP](https://arxiv.org/pdf/1605.08803.pdf)
+Laurent Dinh, Laurent Dinh and Laurent Dinh,
+Published as a conference paper at ICLR 2017.
+
+- [Flow-GAN: Combining Maximum Likelihood and Adversarial Learning in
+Generative Models](https://arxiv.org/pdf/1705.08868.pdf),
+Aditya Grover, Manik Dhar and Stefano Ermon,
+Thirty-Second AAAI Conference on Artificial Intelligence. 2018.
+
+
+
 
 
 ---
