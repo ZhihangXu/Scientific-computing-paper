@@ -66,12 +66,23 @@ Qiang Liu and Dilin Wang,
 [[Code]](https://github.com/DartML/Stein-Variational-Gradient-Descent).
 
 ### Topic 3: Generative Models 
-Apart from VAE, GAN is an another typical methodology to generate samples from the “estimated(implicit)” distribution to estimate the target distribution if it works, there are some paper,
+Apart from VAE, GAN is an another typical methodology to generate samples from the “estimated(implicit)” distribution to estimate the target distribution if it works, there are some papers.
+
 - [Generative Adversarial Nets](https://papers.nips.cc/paper/5423-generative-adversarial-nets)
 Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville and Yoshua Bengio,
-Advances in neural information processing systems. 2014.
+Advances in neural information processing systems(NIPS). 2014.
 [[Code]](https://github.com/goodfeli/adversarial).
 
+-[Conditional Generative Adversarial Nets](https://arxiv.org/abs/1411.1784)
+Mehdi Mirza and Simon Osindero,
+(arXiv preprint arXiv:1411.1784) 2014.
+
+- [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](https://papers.nips.cc/paper/6399-infogan-interpretable-representation-learning-by-information-maximizing-generative-adversarial-nets.pdf),
+Xi Chen†, Yan Duan, Rein Houthooft, John Schulman, Ilya Sutskever and Pieter Abbeel,
+30th Conference on Neural Information Processing Systems (NIPS 2016), Barcelona, Spain.
+
+###  Topic 4:  Flow-based generative model
+This topic focus on density estimation (or related) that is a central topic in unsupervised learning. Combining deep neural networks with the standard statistic method is very popular in recent years. The basic GAN model and its variants are omited here.
 
 
 ---
