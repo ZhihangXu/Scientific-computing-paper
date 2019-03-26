@@ -6,9 +6,6 @@ Please email Zhihang Xu （xuzhh@shanghaitech.edu.cn） if you would like to add
 ---
 ## Part I:  Approximation Methods
 
-In Bayesian Perspective，Uncertainty quantification(UQ) is a problem to compute a posterior $$P(y|x)$$, where $$x$$ is input(parameters) $$y$$ is output(response). Unfortunately, It’s not easy to solve such a high-dimensional problem, Especially, in a complicated physical system.  In many papers, they treat UQ as a problem to estimate the mean and variance, In some sense, It’s enough for a certain problem. But the ultimate goal is still to compute or estimate the posterior, based on the Probability density function (PDF), we can get the whole information about the uncertainty. There are some conventional approximation methods and their the-state-of-the-art algorithm combined with the expressivity of the neural network.
-
-
 ### Topic 1: Markov Chain Monte Carlo sampler
 
 #### Recommanded textbooks: 
@@ -66,7 +63,7 @@ Anthony L. Caterini, Arnaud Doucet and Dino Sejdinovic,
 Purpose Bayesian Inference Algorithm](https://papers.nips.cc/paper/6338-stein-variational-gradient-descent-a-general-purpose-bayesian-inference-algorithm.pdf),
 Qiang Liu and Dilin Wang,
 30th Conference on Neural Information Processing Systems (NIPS 2016), Barcelona, Spain.
-[Code](https://github.com/DartML/Stein-Variational-Gradient-Descent).
+[[Code]](https://github.com/DartML/Stein-Variational-Gradient-Descent).
 
 ### Topic 3: Generative Models 
 Apart from VAE, GAN is an another typical methodology to generate samples from the “estimated(implicit)” distribution to estimate the target distribution if it works, there are some paper,
