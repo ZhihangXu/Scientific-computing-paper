@@ -6,6 +6,9 @@ Please email Zhihang Xu （xuzhh@shanghaitech.edu.cn） if you would like to add
 ---
 ## Part I:  Approximation Methods
 
+n Bayesian Perspective，Uncertainty quantification(UQ) is a problem to compute a posterior $P(y|x)$, where $x$ is input(parameters) $y$ is output(response). Unfortunately, It’s not easy to solve such a high-dimensional problem, Especially, in a complicated physical system.  In many papers, they treat UQ as a problem to estimate the mean and variance, In some sense, It’s enough for a certain problem. But the ultimate goal is still to compute or estimate the posterior, based on the Probability density function (PDF), we can get the whole information about the uncertainty. There are some conventional approximation methods and their the-state-of-the-art algorithm combined with the expressivity of the neural network.
+
+
 ### Topic 1: Markov Chain Monte Carlo sampler
 
 #### Recommanded textbooks: 
