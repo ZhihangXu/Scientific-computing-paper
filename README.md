@@ -54,7 +54,7 @@ Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley,
 Advances in neural information processing systems(NIPS). 2014.
 [[Code]](https://github.com/goodfeli/adversarial).
 
--[Conditional Generative Adversarial Nets](https://arxiv.org/abs/1411.1784)
+- [Conditional Generative Adversarial Nets](https://arxiv.org/abs/1411.1784)
 Mehdi Mirza and Simon Osindero,
 (arXiv preprint arXiv:1411.1784) 2014.
 
