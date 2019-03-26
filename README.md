@@ -115,22 +115,7 @@ International Conference on Machine Learning (ICML). 2013.
 Novikov A, Podoprikhin D, Osokin A, et al.
 Advances in neural information processing systems (NIPS). 2015.
 
-## Topic 4: Gaussian Process
-
-#### Recommanded textbooks: 
-- [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/) 
-
-#### Recommanded paper:
-- [Gaussian Process Latent Variable Models for
-Visualisation of High Dimensional Data](http://papers.nips.cc/paper/2540-gaussian-process-latent-variable-models-for-visualisation-of-high-dimensional-data.pdf),
-Neil D. Lawrence,
-Advances in neural information processing systems. 2004.
-
-'Undertermined'
-
-- [Inference via Low-Dimensional Couplings](http://www.jmlr.org/papers/volume19/17-747/17-747.pdf),
-Alessio Spantini, Daniele Bigoni and Youssef Marzouk,
-Journal of Machine Learning Research 19 (2018) 1-71.
+### Topic 3: 
 
 - [Uncertainty in neural networks: Bayesian Ensembling](https://arxiv.org/pdf/1810.05546.pdf),
 Pearce T, Zaki M, Brintrup A, et al,
@@ -140,8 +125,16 @@ arXiv preprint arXiv:1810.05546, 2018.
 Lars Ruthotto and Eldad Haber,
 arXiv preprint arXiv:1804.04272, 2018.
 
+- [Tensorizing neural networks]
+Novikov A, Podoprikhin D, Osokin A, et al.
+Advances in neural information processing systems (NIPS). 2015.
+
 
 ## Part III: Inference 
+
+- [Inference via Low-Dimensional Couplings](http://www.jmlr.org/papers/volume19/17-747/17-747.pdf),
+Alessio Spantini, Daniele Bigoni and Youssef Marzouk,
+Journal of Machine Learning Research 19 (2018) 1-71.
 ### Topic 1: Variational Inference
 
 #### Recommanded textbooks: 
