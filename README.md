@@ -68,6 +68,13 @@ Qiang Liu and Dilin Wang,
 30th Conference on Neural Information Processing Systems (NIPS 2016), Barcelona, Spain.
 [Code](https://github.com/DartML/Stein-Variational-Gradient-Descent).
 
+### Topic 3: Generative Models 
+Apart from VAE, GAN is an another typical methodology to generate samples from the “estimated(implicit)” distribution to estimate the target distribution if it works, there are some paper,
+- [Generative Adversarial Nets](https://papers.nips.cc/paper/5423-generative-adversarial-nets)
+Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville and Yoshua Bengio,
+Advances in neural information processing systems. 2014.
+[Code and hyperparamter](https://github.com/goodfeli/adversarial)
+
 ---
 ### Some Reading List of relevent fields
 - [Variational Inference](http://www.statslab.cam.ac.uk/~sp825/vi.html)
