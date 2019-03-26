@@ -4,7 +4,7 @@ The following is a list of recommended paper in many fields such as MCMC and Var
 Please email Zhihang Xu （xuzhh@shanghaitech.edu.cn） if you would like to add papesr to this page.
 
 ---
-## Part I:  Approximation Methods
+## Part I:  Sampling and generative models
 
 ### Topic 1: Markov Chain Monte Carlo sampling
 
@@ -35,6 +35,8 @@ Published as a conference paper at ICLR 2019.
 
 
 ### Topic 2: Importance Sampling 
+
+#### Recommanded papers: 
 - [Coupling the reduced-order model and the generative model for an importance sampling estimator](https://arxiv.org/pdf/1901.07977.pdf)
 Xiaoliang Wan and Shuangqing Wei,
 arXiv preprint arXiv:1901.07977 (2019).
@@ -43,39 +45,9 @@ arXiv preprint arXiv:1901.07977 (2019).
 THOMAS MÜLLER, BRIAN MCWILLIAMS, FABRICE ROUSSELLE, MARKUS GROSS, JAN NOVÁK.
 
 
-### Topic 2: Variational Inference
 
-#### Recommanded textbooks: 
-- [Pattern Recognation and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf): Chapter 10.1 and 10.2.
-- [Machine Learning: A probabilistic Perspective](https://doc.lagout.org/science/Artificial%20Intelligence/Machine%20learning/Machine%20Learning_%20A%20Probabilistic%20Perspective%20%5BMurphy%202012-08-24%5D.pdf)： Chapter 21 and 22.
 
-#### Recommanded papers: 
-- [Markov Chain Monte Carlo and Variational Inference:
-Bridging the Gap](http://proceedings.mlr.press/v37/salimans15.pdf),
-Tim Salimans, Diederik P. Kingma and Max Welling,
-Proceedings of the 32 nd International Conference on Machine
-Learning, Lille, France, 2015.
-[[Lecture slides]](http://videolectures.net/site/normal_dl/tag=1005141/icml2015_salimans_variational_inference_01.pdf)
-
-- [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114),
-Diederik P Kingma and Max Welling,
-The International Conference on Learning Representations (ICLR), Banff, 2014,
-[[Video]](https://www.youtube.com/watch?v=rjZL7aguLAs),
-[[Slides]](https://www.slideshare.net/mehdidc/auto-encodingvariationalbayes-54478304).
-
-- [Hamiltonian Variational Auto-Encoder](https://arxiv.org/abs/1805.11328),
-Anthony L. Caterini, Arnaud Doucet and Dino Sejdinovic,
-32nd Conference on Neural Information Processing Systems (NIPS 2018),
-[[Code]](https://github.com/anthonycaterini/hvae-nips),
-[[Video]](https://www.youtube.com/watch?v=MD1CFKTu9U4).
-
-- [Stein Variational Gradient Descent: A General
-Purpose Bayesian Inference Algorithm](https://papers.nips.cc/paper/6338-stein-variational-gradient-descent-a-general-purpose-bayesian-inference-algorithm.pdf),
-Qiang Liu and Dilin Wang,
-30th Conference on Neural Information Processing Systems (NIPS 2016), Barcelona, Spain.
-[[Code]](https://github.com/DartML/Stein-Variational-Gradient-Descent).
-
-### Topic 3: Generative Models 
+### Topic 4: Generative Models 
 Apart from VAE, GAN is an another typical methodology to generate samples from the “estimated(implicit)” distribution to estimate the target distribution if it works, there are some papers.
 
 - [Generative Adversarial Nets](https://papers.nips.cc/paper/5423-generative-adversarial-nets)
@@ -91,7 +63,7 @@ Mehdi Mirza and Simon Osindero,
 Xi Chen, Yan Duan, Rein Houthooft, John Schulman, Ilya Sutskever and Pieter Abbeel,
 30th Conference on Neural Information Processing Systems (NIPS 2016), Barcelona, Spain.
 
-###  Topic 4:  Flow-based generative model
+###  Topic 5:  Flow-based generative model
 This topic focus on density estimation (or related) that is a central topic in unsupervised learning. Combining deep neural networks with the standard statistic method is very popular in recent years. The basic GAN model and its variants are omited here.
 
 - [Density Estimation using real NVP](https://arxiv.org/pdf/1605.08803.pdf),
@@ -121,12 +93,14 @@ Accepted as a workshop contribution at ICLR 2015.
 Joshua Bendavid,
 Prepared for submission to JHEP.
 
+- 
+
 ### Topic 2: Optimization
 - [Adam: A method for stochastic optimization](https://arxiv.org/pdf/1412.6980.pdf),
 Diederik P. Kingma, Jimmy Lei Ba,
 Published as a conference paper at ICLR 2015.
 
-## Topic: Tensor and data-mining in scientific computing and data science
+## Topic 3: Tensor and data-mining in scientific computing and data science
 - [A practical randomized CP tensor decomposition](https://epubs.siam.org/doi/pdf/10.1137/17M1112303)
 Battaglino C, Ballard G, Kolda T G.
 SIAM Journal on Matrix Analysis and Applications, 2018, 39(2): 876-901.
@@ -158,7 +132,38 @@ Lars Ruthotto and Eldad Haber,
 arXiv preprint arXiv:1804.04272, 2018.
 
 
+## Part III: Inference 
+### Topic 1: Variational Inference
 
+#### Recommanded textbooks: 
+- [Pattern Recognation and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf): Chapter 10.1 and 10.2.
+- [Machine Learning: A probabilistic Perspective](https://doc.lagout.org/science/Artificial%20Intelligence/Machine%20learning/Machine%20Learning_%20A%20Probabilistic%20Perspective%20%5BMurphy%202012-08-24%5D.pdf)： Chapter 21 and 22.
+
+#### Recommanded papers: 
+- [Markov Chain Monte Carlo and Variational Inference:
+Bridging the Gap](http://proceedings.mlr.press/v37/salimans15.pdf),
+Tim Salimans, Diederik P. Kingma and Max Welling,
+Proceedings of the 32 nd International Conference on Machine
+Learning, Lille, France, 2015.
+[[Lecture slides]](http://videolectures.net/site/normal_dl/tag=1005141/icml2015_salimans_variational_inference_01.pdf)
+
+- [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114),
+Diederik P Kingma and Max Welling,
+The International Conference on Learning Representations (ICLR), Banff, 2014,
+[[Video]](https://www.youtube.com/watch?v=rjZL7aguLAs),
+[[Slides]](https://www.slideshare.net/mehdidc/auto-encodingvariationalbayes-54478304).
+
+- [Hamiltonian Variational Auto-Encoder](https://arxiv.org/abs/1805.11328),
+Anthony L. Caterini, Arnaud Doucet and Dino Sejdinovic,
+32nd Conference on Neural Information Processing Systems (NIPS 2018),
+[[Code]](https://github.com/anthonycaterini/hvae-nips),
+[[Video]](https://www.youtube.com/watch?v=MD1CFKTu9U4).
+
+- [Stein Variational Gradient Descent: A General
+Purpose Bayesian Inference Algorithm](https://papers.nips.cc/paper/6338-stein-variational-gradient-descent-a-general-purpose-bayesian-inference-algorithm.pdf),
+Qiang Liu and Dilin Wang,
+30th Conference on Neural Information Processing Systems (NIPS 2016), Barcelona, Spain.
+[[Code]](https://github.com/DartML/Stein-Variational-Gradient-Descent).
 
 
 
