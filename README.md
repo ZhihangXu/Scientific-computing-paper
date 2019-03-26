@@ -97,7 +97,7 @@ Prepared for submission to JHEP.
 Diederik P. Kingma, Jimmy Lei Ba,
 Published as a conference paper at ICLR 2015.
 
-## Topic 3: Tensor and data-mining in scientific computing and data science
+### Topic 3: Tensor and data-mining in scientific computing and data science
 - [A practical randomized CP tensor decomposition](https://epubs.siam.org/doi/pdf/10.1137/17M1112303)
 Battaglino C, Ballard G, Kolda T G.
 SIAM Journal on Matrix Analysis and Applications, 2018, 39(2): 876-901.
