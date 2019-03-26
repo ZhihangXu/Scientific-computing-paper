@@ -1,6 +1,6 @@
 ## PAPER LIST
 
-The following is a list of recommended paper in many fields including 'sampling, generative modele, inference'
+The following is a list of recommended paper in many fields including 'sampling, generative modele, inference'.
 Please email Zhihang Xu （xuzhh@shanghaitech.edu.cn） if you have any suggestions.
 
 ---
