@@ -93,8 +93,6 @@ Accepted as a workshop contribution at ICLR 2015.
 Joshua Bendavid,
 Prepared for submission to JHEP.
 
-- 
-
 ### Topic 2: Optimization
 - [Adam: A method for stochastic optimization](https://arxiv.org/pdf/1412.6980.pdf),
 Diederik P. Kingma, Jimmy Lei Ba,
@@ -116,6 +114,13 @@ International Conference on Machine Learning (ICML). 2013.
 - [Tensorizing neural networks]
 Novikov A, Podoprikhin D, Osokin A, et al.
 Advances in neural information processing systems (NIPS). 2015.
+
+## Topic 4: Gaussian Process
+
+#### Recommanded textbooks: 
+- [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/) 
+
+
 
 'Undertermined'
 
