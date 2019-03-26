@@ -120,7 +120,11 @@ Advances in neural information processing systems (NIPS). 2015.
 #### Recommanded textbooks: 
 - [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/) 
 
-
+#### Recommanded paper:
+- [Gaussian Process Latent Variable Models for
+Visualisation of High Dimensional Data](http://papers.nips.cc/paper/2540-gaussian-process-latent-variable-models-for-visualisation-of-high-dimensional-data.pdf),
+Neil D. Lawrence,
+Advances in neural information processing systems. 2004.
 
 'Undertermined'
 
