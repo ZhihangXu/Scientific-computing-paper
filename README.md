@@ -106,7 +106,21 @@ Accepted as a workshop contribution at ICLR 2015.
 
 ## Part II. Scientific Computing and Learning
 
-### Topic 1:
+### Topic 1: Integration
+- [Efficient Monte Carlo Integration Using Boosted Decision Trees and Generative Deep Neural Networks](https://arxiv.org/pdf/1707.00028.pdf),
+Joshua Bendavid,
+Prepared for submission to JHEP.
+
+### Topic 2: Optimization
+- [Adam: A method for stochastic optimization](https://arxiv.org/pdf/1412.6980.pdf),
+Diederik P. Kingma, Jimmy Lei Ba,
+Published as a conference paper at ICLR 2015.
+
+
+
+
+
+
 
 
 
