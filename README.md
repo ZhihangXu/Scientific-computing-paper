@@ -153,7 +153,7 @@ Advances in neural information processing systems (NIPS). 2015.
 Pearce T, Zaki M, Brintrup A, et al,
 arXiv preprint arXiv:1810.05546, 2018.
 
-- [Deep Neural Networks Motivated by Partial Differential Equations]()
+- [Deep Neural Networks Motivated by Partial Differential Equations](https://arxiv.org/pdf/1804.04272.pdf)
 Lars Ruthotto and Eldad Haber,
 arXiv preprint arXiv:1804.04272, 2018.
 
@@ -170,10 +170,6 @@ Hsieh J T, Zhao S, Eismann S, et al.
 - [Inference via Low-Dimensional Couplings](http://www.jmlr.org/papers/volume19/17-747/17-747.pdf),
 Alessio Spantini, Daniele Bigoni and Youssef Marzouk,
 Journal of Machine Learning Research 19 (2018) 1-71.
-
-
-
-
 
 ---
 ### Some Reading List of relevent fields
