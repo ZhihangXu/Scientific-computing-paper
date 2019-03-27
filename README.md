@@ -143,7 +143,7 @@ arXiv preprint arXiv:1808.07452, 2018.
 Tang Y, Salakhutdinov R and Hinton G,
 International Conference on Machine Learning (ICML). 2013.
 
-- [Tensorizing neural networks]
+- [Tensorizing neural networks](https://arxiv.org/abs/1509.06569)
 Novikov A, Podoprikhin D, Osokin A, et al.
 Advances in neural information processing systems (NIPS). 2015.
 
@@ -157,7 +157,7 @@ arXiv preprint arXiv:1810.05546, 2018.
 Lars Ruthotto and Eldad Haber,
 arXiv preprint arXiv:1804.04272, 2018.
 
-- [Tensorizing neural networks]
+- [Tensorizing neural networks](https://arxiv.org/abs/1509.06569)
 Novikov A, Podoprikhin D, Osokin A, et al.
 Advances in neural information processing systems (NIPS). 2015.
 
