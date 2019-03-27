@@ -46,7 +46,7 @@ arXiv preprint arXiv:1901.07977 (2019).
 THOMAS MÜLLER, BRIAN MCWILLIAMS, FABRICE ROUSSELLE, MARKUS GROSS, JAN NOVÁK.
 
 
-### Topic 4: Generative Models 
+### Topic 3: Generative Models 
 Apart from VAE, GAN is an another typical methodology to generate samples from the “estimated(implicit)” distribution to estimate the target distribution if it works, there are some papers.
 
 - [Generative Adversarial Nets](https://papers.nips.cc/paper/5423-generative-adversarial-nets)
@@ -62,7 +62,7 @@ Mehdi Mirza and Simon Osindero,
 Xi Chen, Yan Duan, Rein Houthooft, John Schulman, Ilya Sutskever and Pieter Abbeel,
 30th Conference on Neural Information Processing Systems (NIPS 2016), Barcelona, Spain.
 
-###  Topic 5:  Flow-based generative model
+###  Topic 4:  Flow-based generative model
 This topic focus on density estimation (or related) that is a central topic in unsupervised learning. Combining deep neural networks with the standard statistic method is very popular in recent years. The basic GAN model and its variants are omited here.
 
 - [Density Estimation using real NVP](https://arxiv.org/pdf/1605.08803.pdf),
