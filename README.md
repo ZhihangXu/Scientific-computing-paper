@@ -161,6 +161,10 @@ arXiv preprint arXiv:1804.04272, 2018.
 Novikov A, Podoprikhin D, Osokin A, et al.
 Advances in neural information processing systems (NIPS). 2015.
 
+- [Learning Neural PDE Solvers with Convergence Guarantees](https://openreview.net/pdf?id=rklaWn0qK7)
+Hsieh J T, Zhao S, Eismann S, et al.
+[[Review Website]](https://openreview.net/forum?id=rklaWn0qK7).
+
 ### Topic 5: Coupling
 
 - [Inference via Low-Dimensional Couplings](http://www.jmlr.org/papers/volume19/17-747/17-747.pdf),
