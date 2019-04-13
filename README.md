@@ -118,6 +118,10 @@ THOMAS MÜLLER, BRIAN MCWILLIAMS, FABRICE ROUSSELLE, MARKUS GROSS, JAN NOVÁK.
 Laurent Dinh,David Krueger, Yoshua Bengio,
 Accepted as a workshop contribution at ICLR 2015.
 
+- [Monge-Ampère Flow for Generative Modeling](https://arxiv.org/abs/1809.10188),
+Linfeng Zhang, Weinan E, Lei Wang,
+[Code](https://github.com/wangleiphy/MongeAmpereFlow).
+
 ## Part II. Scientific Computing and Learning
 
 ### Topic 1: Integration
