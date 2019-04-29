@@ -175,6 +175,10 @@ Hsieh J T, Zhao S, Eismann S, et al.
 Alessio Spantini, Daniele Bigoni and Youssef Marzouk,
 Journal of Machine Learning Research 19 (2018) 1-71.
 
+### Topic 6: ANOVA
+- [Calibration of Computational Models with Categorical Parameters and Correlated Outputs via Bayesian Smoothing Spline ANOVA](https://arxiv.org/abs/1405.5297),
+Curtis B. Storlie, William A. Lane, Emily M. Ryan, James R. Gattiker, David M. Higdon.
+
 ---
 ### Some Reading List of relevent fields
 - [Variational Inference](http://www.statslab.cam.ac.uk/~sp825/vi.html)
