@@ -98,6 +98,10 @@ Xi Chen, Yan Duan, Rein Houthooft, John Schulman, Ilya Sutskever and Pieter Abbe
 ###  Topic 5:  Flow-based generative model
 This topic focus on density estimation (or related) that is a central topic in unsupervised learning. Combining deep neural networks with the standard statistic method is very popular in recent years. The basic GAN model and its variants are omited here.
 
+- [Nice: non-linear independent components estimation](https://arxiv.org/pdf/1410.8516.pdf),
+Laurent Dinh,David Krueger, Yoshua Bengio,
+Accepted as a workshop contribution at ICLR 2015.
+
 - [Density Estimation using real NVP](https://arxiv.org/pdf/1605.08803.pdf),
 Laurent Dinh,
 Published as a conference paper at ICLR 2017.
@@ -113,10 +117,6 @@ Advances in Neural Information Processing Systems. 2018.
 
 - [Neural Importance Sampling](https://arxiv.org/pdf/1808.03856.pdf),
 Thomas Muller, Brian Mcwilliams, Fabrice Rousselle, Markus Gross, Jan Novak.
-
-- [Nice: non-linear independent components estimation](https://arxiv.org/pdf/1410.8516.pdf),
-Laurent Dinh,David Krueger, Yoshua Bengio,
-Accepted as a workshop contribution at ICLR 2015.
 
 - [Monge-Ampère Flow for Generative Modeling](https://arxiv.org/abs/1809.10188),
 Linfeng Zhang, Weinan E, Lei Wang,
