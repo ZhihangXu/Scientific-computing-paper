@@ -179,6 +179,11 @@ Journal of Machine Learning Research 19 (2018) 1-71.
 - [Calibration of Computational Models with Categorical Parameters and Correlated Outputs via Bayesian Smoothing Spline ANOVA](https://arxiv.org/abs/1405.5297),
 Curtis B. Storlie, William A. Lane, Emily M. Ryan, James R. Gattiker, David M. Higdon.
 
+### Topic 7: Neural networks and computational cost
+- [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://openreview.net/pdf?id=B1ckMDqlg),
+Noam Shazeer, Azalia Mirhoseini, Krzysztof Maziarz, Andy Davis, Quoc Le, Geoffrey Hinton and Jeff Dean,
+Published as a conference paper at ICLR 2017.
+
 ---
 ### Some Reading List of relevent fields
 - [Variational Inference](http://www.statslab.cam.ac.uk/~sp825/vi.html)
