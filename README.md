@@ -169,6 +169,10 @@ Advances in neural information processing systems (NIPS). 2015.
 Hsieh J T, Zhao S, Eismann S, et al.
 [[Review Website]](https://openreview.net/forum?id=rklaWn0qK7).
 
+- [Drop-Activation: Implicit Parameter Reduction and Harmonious Regularization](https://arxiv.org/pdf/1811.05850.pdf)
+Senwei Liang， Yuehaw Khoo， Haizhao Yang.
+Preprint. Under review. （RECOMMEDED）
+
 ### Topic 5: Coupling
 
 - [Inference via Low-Dimensional Couplings](http://www.jmlr.org/papers/volume19/17-747/17-747.pdf),
